@@ -73,8 +73,8 @@
       "main.js"
     ],
     "matches": [
-      "http://*.ogame.gameforge.com/game/*",
-      "https://*.ogame.gameforge.com/game/*"
+      "http://*.retro.ogamer.net/*",
+      "https://*.retro.ogamer.net/*"
     ],
     "run_at": "document_idle"
   } ],
